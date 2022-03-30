@@ -1,5 +1,5 @@
-{
-  "name": "tourplace",
+{ "homepage":"https://Recepguc.github.io/tourplaces",
+  "name": "tourplaces",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
